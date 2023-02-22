@@ -1,0 +1,16 @@
+h1{color:rgb(156, 34, 0);
+    font-size:50px;}
+
+h2{color:chocolate}
+    
+body{
+    background-image: url("img/mohammad-rahmani-unwXUc_Pqi4-unsplash.jpg");
+    background-size: cover;
+    width:80%; /*width of the web page */
+    margin:auto; /* left and right border */
+    padding:50px;   /*top or bottom border */
+    text-align:center;
+    font-size:large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:black;
+}
